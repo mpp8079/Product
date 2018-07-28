@@ -4,7 +4,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
- 
+ <style>
+.login-container  {
+      padding: 5px;
+    border: 1px solid #ccc;
+    color: #004d99;
+    text-align:left;
+    margin:20px 0px;
+
+}
+</style>
 <title>Login</title>
  
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/styles.css">

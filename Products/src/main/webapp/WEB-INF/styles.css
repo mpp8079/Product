@@ -16,8 +16,9 @@ body {
  
 .page-title  {
     font-size:120%;
-    text-align: left;
+    text-align: center;
     margin:10px 0px;
+    color: red;
 }
 .header-container {
     text-align: left;

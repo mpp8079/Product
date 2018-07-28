@@ -7,9 +7,18 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<style>
+.page-title  {
+    font-size:120%;
+    text-align: center;
+    margin:10px 0px;
+    color: red;
+}
+</style>
+
 <title>Product List</title>
  
-<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/style.css">
+
  
 </head>
 <body>

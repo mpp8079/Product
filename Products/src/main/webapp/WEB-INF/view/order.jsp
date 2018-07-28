@@ -17,7 +17,7 @@
     
    <fmt:setLocale value="en_US" scope="session"/>
  
-   <div class="page-title">Order Info</div>
+  
  
    <div class="customer-info-container">
        <h3>Customer Information:</h3>
@@ -72,11 +72,6 @@
           </c:forEach>
             
        </div>
-   </c:if>
- 
- 
- 
- 
-   
+   </c:if>   
 </body>
 </html>
